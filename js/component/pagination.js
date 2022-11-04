@@ -40,7 +40,7 @@ function DisplayList(items, wrapper, products_per_page, page){
                     </div>
                     </div>
                     <div class="feature__bottom">
-                    <a id= "buy" class="btn" href="/Shoes-Store/page/detail.html?id=${item.id}">Buy now</a>
+                    <a id= "buy" class="btn" href="/page/detail.html?id=${item.id}">Buy now</a>
                     <span>${item.price}</span>
                     </div>
                
