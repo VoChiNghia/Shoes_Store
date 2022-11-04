@@ -1,0 +1,20 @@
+// Helper
+@import './Helper/variables';
+
+// Base 
+@import './Base/reset';
+
+//Component
+@import './Component/button';
+
+// Layout
+@import './Layout/home/header';
+@import './Layout/home/carousel';
+@import './Layout/home/feature';
+@import './Layout/home/pagination';
+
+@import './Layout/detail/desc';
+@import './Layout/detail/footer';
+
+@import './Layout/register/register';
+
