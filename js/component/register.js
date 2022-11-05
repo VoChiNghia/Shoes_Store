@@ -44,6 +44,7 @@ const signUp = () => {
     })
     .then((res) => {
         console.log(res.data.content);
+        console.log(res)
     })
     .catch((err) => {
         console.log(err);
